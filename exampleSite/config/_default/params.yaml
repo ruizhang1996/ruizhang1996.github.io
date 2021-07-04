@@ -59,7 +59,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align_right: true
+  align: right
   show_logo: true
   show_language: false
   show_day_night: true
