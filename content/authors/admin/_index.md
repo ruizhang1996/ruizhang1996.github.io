@@ -67,4 +67,4 @@ highlight_name: true
 
 I am a CS Ph.D student at Duke University. Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
