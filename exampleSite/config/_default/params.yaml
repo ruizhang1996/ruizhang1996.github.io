@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: r.zhang@duke.edu
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
@@ -59,7 +59,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: r
+  align_right: true
   show_logo: true
   show_language: false
   show_day_night: true
@@ -111,7 +111,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: rectangle
+  shape: circle
 publications:
   date_format: January 2006
   citation_style: apa
