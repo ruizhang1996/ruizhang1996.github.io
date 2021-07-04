@@ -23,10 +23,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph.D in Computer Science
     institution: Duke University
     year: 2020 - 2025
-  - course: Honors BSc in Computer Science
+  - course: B.Sc in Computer Science (Honors)
     institution: University of British Columbia
     year: 2016 - 2020
 
