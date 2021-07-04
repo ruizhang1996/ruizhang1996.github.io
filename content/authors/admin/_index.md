@@ -65,6 +65,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a CS PhD student at Duke University. Before joining Duke, I received my Bsc in Computer Science from the University of British Columbia.
+I am a CS PhD student at Duke University. Before joining Duke, I received my Bsc in Computer Science from the University of British Columbia.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
