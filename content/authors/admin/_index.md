@@ -30,10 +30,10 @@ interests:
 education:
   courses:
   - course: Ph.D in Computer Science
-    institution: [Duke University](https://duke.edu/)<br><br>
+    institution: Duke University
     year: 2020 - 2025
   - course: B.Sc in Computer Science (Honors)
-    institution: [University of British Columbia](https://ubc.ca/)<br><br>
+    institution: University of British Columbia
     year: 2016 - 2020
 
 # Social/Academic Networking
