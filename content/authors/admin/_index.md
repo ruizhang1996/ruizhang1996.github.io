@@ -2,6 +2,10 @@
 # Display name
 title: Rui (Ray) Zhang
 
+# Full name (for SEO)
+first_name: Rui
+last_name: Zhang
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -11,10 +15,10 @@ role: Doctoral Student in Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Duke University
-  
+  url: https://duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a CS Ph.D student at Duke University. I am broadly interested in Machine Learning, Optimization and Data Mining. My goal is to design simple and interpretable models, which have comparable performance to black models, for decision making problems. These techniques can be further applied to interdisciplinary areas with economic, finance and healthcare. Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
+bio: I am currently a CS Ph.D student at Duke University. I am broadly interested in Machine Learning, Optimization and Data Mining. 
 
 # Interests to show in About widget
 interests:
@@ -26,10 +30,10 @@ interests:
 education:
   courses:
   - course: Ph.D in Computer Science
-    institution: Duke University
+    institution: [Duke University](https://duke.edu/)
     year: 2020 - 2025
   - course: B.Sc in Computer Science (Honors)
-    institution: University of British Columbia
+    institution: [University of British Columbia](https://ubc.ca/)
     year: 2016 - 2020
 
 # Social/Academic Networking
@@ -67,3 +71,5 @@ email: "r.zhang@duke.edu"
 highlight_name: true
 ---
 
+I am currently a CS Ph.D student at Duke University. I am broadly interested in Machine Learning, Optimization and Data Mining. My goal is to design simple and interpretable models, which have comparable performance to black models, for decision making problems. These techniques can be further applied to interdisciplinary areas with economic, finance and healthcare. Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
+{style="text-align: justify;"}
