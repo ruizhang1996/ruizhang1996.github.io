@@ -71,6 +71,7 @@ email: "r.zhang@duke.edu"
 highlight_name: true
 ---
 
-I am currently a CS Ph.D student at Duke University. I am broadly interested in Machine Learning, Optimization and Data Mining. My goal is to design simple and interpretable models, which have comparable performance to black models, for decision making problems. These techniques can be further applied to interdisciplinary areas with economic, finance and healthcare.  
+I am currently a CS Ph.D student at Duke University, advised by [Prof. Cynthia Rudin](https://users.cs.duke.edu/~cynthia/home.html). I am broadly interested in Machine Learning, Optimization and Data Mining. My goal is to design simple and interpretable models, which have performance comparable to black-box models, for decision making problems. These techniques can be further applied to interdisciplinary areas with economic, finance and healthcare.  
+
 Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
-{style="text-align: justify;"}
+
