@@ -30,10 +30,10 @@ interests:
 education:
   courses:
   - course: Ph.D in Computer Science
-    institution: [Duke University](https://duke.edu/)
+    institution: [Duke University](https://duke.edu/)<br><br>
     year: 2020 - 2025
   - course: B.Sc in Computer Science (Honors)
-    institution: [University of British Columbia](https://ubc.ca/)
+    institution: [University of British Columbia](https://ubc.ca/)<br><br>
     year: 2016 - 2020
 
 # Social/Academic Networking
@@ -71,5 +71,6 @@ email: "r.zhang@duke.edu"
 highlight_name: true
 ---
 
-I am currently a CS Ph.D student at Duke University. I am broadly interested in Machine Learning, Optimization and Data Mining. My goal is to design simple and interpretable models, which have comparable performance to black models, for decision making problems. These techniques can be further applied to interdisciplinary areas with economic, finance and healthcare. Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
+I am currently a CS Ph.D student at Duke University. I am broadly interested in Machine Learning, Optimization and Data Mining. My goal is to design simple and interpretable models, which have comparable performance to black models, for decision making problems. These techniques can be further applied to interdisciplinary areas with economic, finance and healthcare.  
+Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
 {style="text-align: justify;"}
