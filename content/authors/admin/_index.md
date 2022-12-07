@@ -14,11 +14,17 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a CS Ph.D student at Duke University. I am broadly interested in Machine Learning, Optimization and Data Mining. My goal is to design simple and interpretable models, which have
+comparable performance to black models, for decision making problems. These techniques can be further applied to interdisciplinary areas with
+economic, finance and healthcare.
+
+Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
 
 # Interests to show in About widget
 interests:
 - Interpretable Machine Learning
+- Optimization
+- Data Mining
 
 # Education to show in About widget
 education:
@@ -64,6 +70,4 @@ email: "r.zhang@duke.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a CS Ph.D student at Duke University. Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
 
