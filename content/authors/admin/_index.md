@@ -63,7 +63,7 @@ email: "r.zhang@duke.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
+---
 
 I am a CS Ph.D student at Duke University. Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
 
