@@ -17,7 +17,7 @@ organizations:
 bio: I am currently a CS Ph.D student at Duke University. I am broadly interested in Machine Learning, Optimization and Data Mining. My goal is to design simple and interpretable models, which have
 comparable performance to black models, for decision making problems. These techniques can be further applied to interdisciplinary areas with
 economic, finance and healthcare.
-Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
+bio: Before joining Duke, I received my B.Sc in Computer Science from the University of British Columbia.  
 
 # Interests to show in About widget
 interests:
