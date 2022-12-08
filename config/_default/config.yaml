@@ -5,6 +5,7 @@
 
 title: Ray Zhang # Website name
 baseurl: 'https://ruizhang1996.github.io' # Website URL
+relativeURLs: true
 copyright: '© {2022} Ray Zhang' # Footer text, e.g. '© {year} Me'
 
 ############################
