@@ -28,8 +28,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Association for the Advancement of Artificial Intelligence(AAAI), 2023*
-publication_short: *AAAI 2023*
+publication: In *Association for the Advancement of Artificial Intelligence(AAAI), 2023*
+publication_short: In *AAAI 2023*
 
 abstract: Regression trees are one of the oldest forms of AI models, and their predictions can be made without a calculator, which makes them broadly useful, particularly for high-stakes applications. Within the large literature on regression trees, there has been little effort towards full provable optimization, mainly due to the computational hardness of the problem. This work proposes a dynamic-programming-with-bounds approach to the construction of provably-optimal sparse regression trees. We leverage a novel lower bound based on an optimal solution to the k-Means clustering algorithm in 1-dimension over the set of labels. We are often able to find optimal sparse trees in seconds, even for challenging datasets that involve large numbers of samples and highly-correlated features.
 # Summary. An optional shortened abstract.
