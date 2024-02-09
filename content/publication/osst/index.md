@@ -31,7 +31,7 @@ publication_types: ["1"]
 publication: In *International Conference on Artificial Intelligence and Statistics(AISTATS), 2024*
 publication_short: In *AISTATS 2024 (To appear)*
 
-abstract: Interpretability is crucial for doctors, hospitals, pharmaceutical companies and biotechnology corporations to analyze and make decisions for high stakes problems that involve human health. Tree-based methods have been widely adopted for \textit{survival analysis} due to their appealing interpretablility and their ability to capture complex relationships. However, most existing methods to produce survival trees rely on heuristic (or greedy) algorithms, which risk producing sub-optimal models. We present a dynamic-programming-with-bounds approach that finds provably-optimal sparse survival tree models, frequently in only a few seconds.
+abstract: Interpretability is crucial for doctors, hospitals, pharmaceutical companies and biotechnology corporations to analyze and make decisions for high stakes problems that involve human health. Tree-based methods have been widely adopted for survival analysis due to their appealing interpretablility and their ability to capture complex relationships. However, most existing methods to produce survival trees rely on heuristic (or greedy) algorithms, which risk producing sub-optimal models. We present a dynamic-programming-with-bounds approach that finds provably-optimal sparse survival tree models, frequently in only a few seconds.
 # Summary. An optional shortened abstract.
 summary: We propose a dynamic-programming-with-bounds approach to the construction of provably-optimal sparse survival trees. We are often able to find optimal sparse trees in a few seconds.
 
