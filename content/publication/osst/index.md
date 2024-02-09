@@ -1,5 +1,5 @@
 ---
-title: "Optimal Sparse Regression Trees"
+title: "Optimal Sparse Survival Trees"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,12 +11,12 @@ authors:
 - Cynthia Rudin
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2022-12-01T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2211.14980"
+date: "2024-01-01T00:00:00Z"
+doi: "https://doi.org/10.48550/arXiv.2401.15330"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -28,14 +28,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Association for the Advancement of Artificial Intelligence(AAAI), 2023*
-publication_short: In *AAAI 2023*
+publication: In *International Conference on Artificial Intelligence and Statistics(AISTATS), 2024*
+publication_short: In *AISTATS 2024 (To appear)*
 
 abstract: Regression trees are one of the oldest forms of AI models, and their predictions can be made without a calculator, which makes them broadly useful, particularly for high-stakes applications. Within the large literature on regression trees, there has been little effort towards full provable optimization, mainly due to the computational hardness of the problem. This work proposes a dynamic-programming-with-bounds approach to the construction of provably-optimal sparse regression trees. We leverage a novel lower bound based on an optimal solution to the k-Means clustering algorithm in 1-dimension over the set of labels. We are often able to find optimal sparse trees in seconds, even for challenging datasets that involve large numbers of samples and highly-correlated features.
 # Summary. An optional shortened abstract.
-summary: We propose a dynamic-programming-with-bounds approach to the construction of provably-optimal sparse regression trees. We leverage a novel lower bound based on an optimal solution to the k-Means clustering algorithm in 1-dimension over the set of labels. We are often able to find optimal sparse trees in seconds.
+summary: We propose a dynamic-programming-with-bounds approach to the construction of provably-optimal sparse survival trees. We are often able to find optimal sparse trees in a few seconds.
 
-tags: ["decision tree", "regression", "interpretability"]
+tags: ["decision tree", "survival analysis", "interpretability"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,8 +45,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2211.14980'
-url_code: 'https://github. com/ruizhang1996/optimal-sparse-regression-tree-public'
+url_pdf: 'https://arxiv.org/abs/2401.15330'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
