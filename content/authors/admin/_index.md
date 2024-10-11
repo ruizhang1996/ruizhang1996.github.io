@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Rui Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ray
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rui
+last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤔
 
 # Is this the primary user of the site?
 superuser: true
