@@ -3,7 +3,7 @@
 title: Rui Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Ray
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Rui
@@ -56,8 +56,7 @@ interests:
 education:
   - area: Ph.D in Computer Science
     institution: Duke University
-    date_start: 2020
-    date_end: 2025
+    year: 2020 - 2025
     summary: |
       Interpretable Machine Learning Lab
       
