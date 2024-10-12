@@ -2,9 +2,9 @@
 title: "Optimal Sparse Survival Trees"
 authors:
 - admin
-- Rui Xin
-- Margo Seltzer
-- Cynthia Rudin
+- ruixin
+- margoseltzer
+- cynthiarudin
 
 date: "2024-01-01T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2401.15330"

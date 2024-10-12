@@ -6,9 +6,9 @@ title: 'Optimal Sparse Regression Trees'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Rui Xin
-  - Margo Seltzer
-  - Cynthia Rudin
+  - ruixin
+  - margoseltzer
+  - cynthiarudin
 
 # Author notes (optional)
 author_notes:
