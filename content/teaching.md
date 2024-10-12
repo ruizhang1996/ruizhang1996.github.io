@@ -13,7 +13,7 @@ sections:
         - **COMPSCI 590**: Data Science, Duke (23Spring)  
         Graduate Teaching Assistant
 
-        - **COMPSCI 671**: Theory & Alg ML, Duke (22Fall)  
+        - **COMPSCI 671**: Theory & Alg Machine Learning, Duke (22Fall)  
         Graduate Teaching Assistant  
  
         

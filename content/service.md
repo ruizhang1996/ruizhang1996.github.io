@@ -11,7 +11,7 @@ sections:
       text: |
         ### Journal Reviewer
 
-        - Journal of Machine Learning Research (JMLR)
+        - ['Journal of Machine Learning Research (JMLR)'](https://www.jmlr.org/)
         - Theoretical Computer Science (TCS)
         - INFORMS Journal on Computing (IJOC)
         
