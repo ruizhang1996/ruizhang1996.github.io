@@ -6,6 +6,11 @@ type: landing
 design:
   spacing: '5rem'
 
+sections:
+  - block: collection
+    content:
+      title: Teaching
+
 ---
 
 ## Graduate Courses
