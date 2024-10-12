@@ -25,7 +25,7 @@ sections:
         CPSC 304: Intro to Relational DB, UBC (19Fall)<br> 
         Undergraduate Teaching Assistant<br><br>
 
-        CPSC 213: Intro to Computer Systems UBC (18Summer)<br>
+        CPSC 213: Intro to Computer Systems, UBC (18Summer)<br>
         Undergraduate Teaching Assistant'
 
 ---

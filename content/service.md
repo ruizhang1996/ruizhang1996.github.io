@@ -8,16 +8,17 @@ sections:
   - block: markdown
     content:
       title: Service
-      text: 
+      text: |
         '### Journal Reviewer
 
-        - [Journal of Machine Learning Research (JMLR)](https://www.jmlr.org/)<br>
-        - [Theoretical Computer Science (TCS)](https://www.sciencedirect.com/journal/theoretical-computer-science)<br>
-        - [INFORMS Journal on Computing (IJOC)](https://pubsonline.informs.org/journal/ijoc)<br>
+        - [Journal of Machine Learning Research (JMLR)](https://www.jmlr.org/)
+        - [Theoretical Computer Science (TCS)](https://www.sciencedirect.com/journal/theoretical-computer-science)
+        - [INFORMS Journal on Computing (IJOC)](https://pubsonline.informs.org/journal/ijoc)
         
+
         ### Program Committee for Conferences and Workshops
         
-        -[INFORMS 2024 Workshop on Data Science](https://sites.google.com/view/data-science-2024)<br>
-        - NeurIPS 2024 Workshop on Interpretable AI<br>'
+        -[INFORMS 2024 Workshop on Data Science](https://sites.google.com/view/data-science-2024)
+        - NeurIPS 2024 Workshop on Interpretable AI'
 
 ---
