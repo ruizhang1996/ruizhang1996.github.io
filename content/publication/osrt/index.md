@@ -35,7 +35,10 @@ abstract: Regression trees are one of the oldest forms of AI models, and their p
 # Summary. An optional shortened abstract.
 summary: We propose a dynamic-programming-with-bounds approach to the construction of provably-optimal sparse regression trees. We leverage a novel lower bound based on an optimal solution to the k-Means clustering algorithm in 1-dimension over the set of labels. We are often able to find optimal sparse trees in seconds.
 
-tags: ["decision tree", "regression", "interpretability"]
+tags: 
+ - Decision Trees
+ - Regression
+ - Interpretability
 
 # Display this page in the Featured widget?
 featured: true
