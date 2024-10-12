@@ -44,8 +44,8 @@ sections:
   #     columns: '1'
   - block: collection
     id: news
-  #   content:
-  #     title: Recent News
+    content:
+      title: Recent News
   #     subtitle: ''
   #     text: ''
   #     # Page type to display. E.g. post, talk, publication...

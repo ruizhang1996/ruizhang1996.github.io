@@ -16,9 +16,8 @@ sections:
       title: Teaching
       filters:
         folders:
-          - teaching/ubc
+          - teaching
     design:
-      # view: article-grid
-      # columns: 2
-      view: list
+      view: article-grid
+      columns: 2
 ---
