@@ -27,6 +27,6 @@ sections:
         Undergraduate Teaching Assistant<br><br>
 
         CPSC 213: Intro to Computer Systems UBC, (2018Summer)<br>
-        Undergraduate Teaching Assistant'<br><br>
+        Undergraduate Teaching Assistant'
 
 ---

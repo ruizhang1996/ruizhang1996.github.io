@@ -17,10 +17,10 @@ main:
     url: /publication
     weight: 12
   - name: Service
-    url: /service
+    url: service/
     weight: 13
   - name: Teaching
-    url: /teaching
+    url: teaching/
     weight: 14
   # - name: Experience
   #   url: experience/
