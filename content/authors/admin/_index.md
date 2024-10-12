@@ -24,28 +24,30 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Duke University
+    url: https://duke.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:r.zhang@duke.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ruizhang1996
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
+    url: https://www.linkedin.com/in/rzhang9997
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cv_rz.pdf
 interests:
   - Artificial Intelligence
   - Computational Linguistics
