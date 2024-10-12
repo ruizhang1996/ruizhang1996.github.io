@@ -11,7 +11,7 @@ sections:
       text: |
         ### Journal Reviewer
 
-        - ['Journal of Machine Learning Research (JMLR)'](https://www.jmlr.org/)
+        - Journal of Machine Learning Research (JMLR)
         - Theoretical Computer Science (TCS)
         - INFORMS Journal on Computing (IJOC)
         
@@ -20,5 +20,7 @@ sections:
         
         - INFORMS 2024 Workshop on Data Science
         - NeurIPS 2024 Workshop on Interpretable AI
-
+        
+    design:
+      columns: '1'
 ---
