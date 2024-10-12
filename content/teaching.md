@@ -7,9 +7,13 @@ design:
   spacing: '5rem'
 
 sections:
-  - block: collection
+  - block: markdown
     content:
       title: Teaching
+      text: 
+        '## Graduate Courses
+
+        COMPSCI 590: Data Science, Duke, Graduate Teaching Assistant.'
 
 ---
 
