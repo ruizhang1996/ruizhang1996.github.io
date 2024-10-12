@@ -58,7 +58,8 @@ interests:
 education:
   - area: Ph.D in Computer Science
     institution: Duke University
-    year: 2020 - 2025
+    year: 2020 - Present
+    date_start: 2020-09-01
     summary: |
       Interpretable Machine Learning Lab
       
@@ -68,6 +69,7 @@ education:
     #   url: 'https://example.com'
   - area: B.Sc in Computer Science (Honors)
     institution: University of British Columbia
+    year: 2016 - 2020
     date_start: 2016-09-01
     date_end: 2020-05-01
     summary: |

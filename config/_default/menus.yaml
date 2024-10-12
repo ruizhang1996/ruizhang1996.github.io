@@ -22,7 +22,6 @@ main:
   - name: Teaching
     url: /teaching
     weight: 14
-  - name: Contact
   # - name: Experience
   #   url: experience/
   #   weight: 20
