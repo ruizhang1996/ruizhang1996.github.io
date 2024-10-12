@@ -11,9 +11,10 @@ sections:
     content:
       title: Teaching
       text: 
-        '## Graduate Courses
+        '### Graduate Courses
 
-        COMPSCI 590: Data Science, Duke, Graduate Teaching Assistant.'
+        COMPSCI 590: Data Science, Graduate Teaching Assistant, Duke.
+        COMPSCI 671: Theory & Alg ML, Graduate Teaching Assistant, Duke'
 
 ---
 
