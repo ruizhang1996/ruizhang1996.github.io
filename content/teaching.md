@@ -13,13 +13,22 @@ sections:
       text: 
         '### Graduate Courses
 
-        COMPSCI 590: Data Science, Graduate Teaching Assistant, Duke, 2023<br>  
-        COMPSCI 671: Theory & Alg ML, Graduate Teaching Assistant, Duke, 2022<br>   
+        COMPSCI 590: Data Science, Duke, (2023Spring)<br>
+        Graduate Teaching Assistant
+
+        COMPSCI 671: Theory & Alg ML, Duke, (2022Fall)<br>
+        Graduate Teaching Assistant
+ 
         
         ### Undergraduate Courses
         
-        CPSC 404: Advanced Relational DB, Undergraduate Teaching Assistant, UBC, 2019 - 2020<br>   
-        CPSC 304: Intro to Relational DB, Undergraduate Teaching Assistant, UBC, 2019 <br> 
-        CPSC 213: Intro to Computer Systems, Undergraduate Teaching Assistant, UBC, 2018 <br> '
+        CPSC 404: Advanced Relational DB, UBC, (2019Fall, 2020Spring)<br>
+        Undergraduate Teaching Assistant
+
+        CPSC 304: Intro to Relational DB, UBC, (2019Fall)<br> 
+        Undergraduate Teaching Assistant
+
+        CPSC 213: Intro to Computer Systems UBC, (2018Summer)<br>
+        Undergraduate Teaching Assistant'
 
 ---
