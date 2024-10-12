@@ -35,9 +35,9 @@ abstract: Survival analysis is an important research topic with applications in 
 summary: We propose new optimization methods by constructing and minimizing surrogate functions that exploit hidden mathematical structures of the CPH model, producing very sparse high-quality models that were not previously practical to construct.
 
 tags: 
-- survival analysis
-- cox
 - optimization
+- cox
+- survival analysis
 - interpretability
 
 # Display this page in the Featured widget?
