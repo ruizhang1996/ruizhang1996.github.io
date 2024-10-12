@@ -8,3 +8,8 @@ name_pronunciation:
 # Full name (for SEO)
 first_name: Cynthia
 last_name: Rudin
+
+organizations:
+  - name: Duke University
+  
+---
