@@ -9,7 +9,7 @@ sections:
     content:
       title: Service
       text: |
-        '### Journal Reviewer
+        ### Journal Reviewer
 
         - [Journal of Machine Learning Research (JMLR)](https://www.jmlr.org/)
         - [Theoretical Computer Science (TCS)](https://www.sciencedirect.com/journal/theoretical-computer-science)
@@ -19,6 +19,6 @@ sections:
         ### Program Committee for Conferences and Workshops
         
         -[INFORMS 2024 Workshop on Data Science](https://sites.google.com/view/data-science-2024)
-        - NeurIPS 2024 Workshop on Interpretable AI'
+        - NeurIPS 2024 Workshop on Interpretable AI
 
 ---
