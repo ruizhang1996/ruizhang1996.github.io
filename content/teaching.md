@@ -8,7 +8,7 @@ sections:
     content:
       title: Teaching
       text: |
-        ### Graduate Courses
+        #### Graduate Courses
 
         - **COMPSCI 590**: Data Science, Duke (23Spring)  
         Graduate Teaching Assistant
@@ -17,7 +17,7 @@ sections:
         Graduate Teaching Assistant  
  
         
-        ### Undergraduate Courses
+        #### Undergraduate Courses
         
         - **CPSC 404**: Advanced Relational DB, UBC (19Fall, 20Spring)  
         Undergraduate Teaching Assistant  

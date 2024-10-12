@@ -9,14 +9,14 @@ sections:
     content:
       title: Service
       text: |
-        ### Journal Reviewer
+        #### Journal Reviewer
 
         - Journal of Machine Learning Research (JMLR)
         - Theoretical Computer Science (TCS)
         - INFORMS Journal on Computing (IJOC)
         
 
-        ### Program Committee for Conferences and Workshops
+        #### Program Committee for Conferences and Workshops
         
         - INFORMS 2024 Workshop on Data Science
         - NeurIPS 2024 Workshop on Interpretable AI
