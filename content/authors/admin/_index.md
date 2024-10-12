@@ -26,13 +26,15 @@ role: Doctoral Student in Computer Science
 organizations:
   - name: Duke University
     url: https://duke.edu/
+  - name: "Email: r.zhang@duke.edu"
+    url: 'mailto:r.zhang@duke.edu'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:r.zhang@duke.edu'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'mailto:r.zhang@duke.edu'
+  #   label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
