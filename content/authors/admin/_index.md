@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Doctoral Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -66,8 +66,8 @@ education:
     #   url: 'https://example.com'
   - area: B.Sc in Computer Science (Honors)
     institution: University of British Columbia
-    date_start: 2016
-    date_end: 2020
+    date_start: 2016-09-01
+    date_end: 2020-05-01
     summary: |
       GPA: 3.94/4.0
 
