@@ -1,6 +1,6 @@
 ---
 title: 'Teaching'
-date: 2024-10-02
+date: 2024-10-01
 # type: landing
 
 authors:
