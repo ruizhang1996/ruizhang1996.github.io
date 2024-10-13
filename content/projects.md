@@ -2,6 +2,7 @@
 title: 'Projects'
 date: 2027-05-19
 type: landing
+private: true
 
 design:
   # Section spacing
