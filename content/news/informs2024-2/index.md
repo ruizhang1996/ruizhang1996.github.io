@@ -1,15 +1,25 @@
 ---
-title: "🎉 Our paper 'FastSurvival: Hidden Computational Blessings in Training Cox Proportional Hazards Models' has been accepted by NeurIPS 2024! "
-summary: See you in Vancouver!
-date: 2024-10-09
+title: "🎉 Our paper 'FastSurvival: Hidden Computational Blessings in Training Cox Proportional Hazards Models' has been selected as INFORMS 2024 DMDA Workshop Best Paper Finalist!"
+summary: The best paper compeitition (theoretical track) will be held on Oct.19 2:30 PM - 3:45PM.
+date: 2024-08-15
 
 authors:
   - admin
 
 tags:
-  - NeurIPS
+  - INFORMS
+  - DMDA Workshop
+  - Best Paper Compeitition
 ---
+### INFORMS 2024
+#### Presentation Tittle
+<span style="font-size: 0.9em;">FastSurvival: Hidden Computational Blessings in Training Cox Proportional Hazards Models
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+#### Session Title
+<span style="font-size: 0.9em;">DAMA workshop best paper competition (theoretical track)
 
-Use popular tools such as Plotly, Mermaid, and data frames.
+#### Session Type
+<span style="font-size: 0.9em;">best paper competition 
+
+#### Session Date and Time
+<span style="font-size: 0.9em;">Oct.19 2:30 PM - 3:45PM
