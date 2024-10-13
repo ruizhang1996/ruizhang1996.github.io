@@ -1,5 +1,5 @@
 ---
-title: 'Service'
+title: 'Services'
 date: 2023-10-24
 type: landing
 
@@ -7,21 +7,19 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Service
+      title: Services
       text: |
-        #### Journal Reviewer
 
-        - <span style="font-size: 0.85em;">Journal of Machine Learning Research (JMLR)
-        - <span style="font-size: 0.85em;">Theoretical Computer Science (TCS)
-        - <span style="font-size: 0.85em;">INFORMS Journal on Computing (IJOC)
-        
-
-        #### Program Committee for Conferences and Workshops
-        
-        - <span style="font-size: 0.85em;">INFORMS 2024 Workshop on Data Science
-        - <span style="font-size: 0.85em;">NeurIPS 2024 Workshop on Interpretable AI
-        
-    design:
-      css_class: light
-      columns: '1'
 ---
+
+#### Journal Reviewer
+
+- <span style="font-size: 0.85em;">Journal of Machine Learning Research (JMLR)
+- <span style="font-size: 0.85em;">Theoretical Computer Science (TCS)
+- <span style="font-size: 0.85em;">INFORMS Journal on Computing (IJOC)
+
+
+#### Program Committee for Conferences and Workshops
+
+- <span style="font-size: 0.85em;">INFORMS 2024 Workshop on Data Science
+- <span style="font-size: 0.85em;">NeurIPS 2024 Workshop on Interpretable AI
