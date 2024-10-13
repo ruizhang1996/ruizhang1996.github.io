@@ -1,5 +1,5 @@
 ---
-title: "🎉 Our paper 'FastSurvival: Hidden Computational Blessings in Training Cox Proportional Hazards Models' has been accepted by NeurIPS 2024! "
+title: 🎉 Our paper  
 summary: See you in Vancouver!
 date: 2024-12-09
 
