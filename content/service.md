@@ -22,5 +22,6 @@ sections:
         - NeurIPS 2024 Workshop on Interpretable AI
         
     design:
+      css_class: light
       columns: '1'
 ---

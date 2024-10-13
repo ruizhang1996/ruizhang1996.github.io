@@ -10,7 +10,7 @@ sections:
       text: |
         #### Graduate Courses
 
-        - **COMPSCI 590**: Data Science, Duke (23Spring)  
+        - <span style="font-size: 0.9em;">**COMPSCI 590**: Data Science, Duke (23Spring)  
         Graduate Teaching Assistant
 
         - **COMPSCI 671**: Theory & Alg Machine Learning, Duke (22Fall)  
