@@ -1,14 +1,16 @@
 ---
 title: 'Services'
 date: 2023-10-24
-type: landing
+# type: landing
 
+authors:
+  - admin
 
-sections:
-  - block: markdown
-    content:
-      title: Services
-      text: |
+# sections:
+#   - block: markdown
+#     content:
+#       title: Services
+#       text: |
 
 ---
 
