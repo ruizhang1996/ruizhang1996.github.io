@@ -1,5 +1,4 @@
 ---
 title: Blog
-private: true
 view: article-grid
 ---
